@@ -1,0 +1,2 @@
+# TransfusionReproducibilityChallenge
+This is our team's code for the 2019 NeurIPS Reproducibility Challenge.  We replicated a subset of results from "Transfusion: Understanding Transfer Learning for Medical Imaging" by Raghu et al. .   This repo contains pytorch-lightning implementations of ResNet50 and InceptionV3 trainers for the Kaggle Diabetic Retinopathy Challenge dataset, with easy transfer learning.  All hyperparameters are assigned according to the original paper https://arxiv.org/pdf/1902.07208.pdf
